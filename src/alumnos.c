@@ -25,6 +25,10 @@
 
 /*=====[Definitions of public global variables]==============================*/
 
+/**
+*@brief Datos del alumno Milton Sosa
+*/
+
 static const struct alumno_s MILTON_SOSA = {
     .apellidos = "SOSA",
     .nombres = "Milton Eduardo",
